@@ -39,7 +39,7 @@ Consensus Unis is divided into four stages:
 ​							 Output quantity 5 million x 51% x 50% = 1.275 million
 ​		Total output:  the output reaches 51%, which is 2.55 million stop mining,Open UNIS mining
 
-​	Stage4: consensus (drainage)
+​	Stage4: Sharing (prosperity)
 
 ​		Code:  UNIS
 ​		Number of issued:  4 million pieces
