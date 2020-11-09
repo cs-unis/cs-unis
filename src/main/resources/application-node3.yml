@@ -1,0 +1,19 @@
+server:
+  port: 8083
+
+rocksdb:
+  data-dir: block-data/node3
+
+tio:
+  heart-timeout: 5000
+  client-group-name: ppblock-client
+  server-group-context-name: ppblock-server
+  server-port: 7890
+  server-ip: 127.0.0.1
+  nodes:
+    -
+      ip: 127.0.0.1
+      port: 5678
+    -
+      ip: 127.0.0.1
+      port: 6789

@@ -1,0 +1,14 @@
+spring:
+  profiles:
+    active: node1
+
+settings:
+  node-discover: false
+  auto-mining: true
+
+logging:
+  level:
+    org:
+      tio:
+        server: OFF
+        client: OFF
