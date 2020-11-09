@@ -10,13 +10,15 @@ Consensus Unis is divided into four stages:
 
 ​		Code: CON. 
 
+​		Number of issued:  7 million pieces.
 
-​		Number of issued:  7 million pieces. 
 ​		Issue price:  0.08USDT. 
+
 ​		Income logic:  USDT buys miners to produce CON.
 ​			       The number of output is 7 million x 51% x 50% = 1.785 million.
 ​			       Turn on CON to buy mining machine to produce CON.
 ​			       The number of output is 7 million x 51% x 50% = 1.785 million.
+
 ​		Total output:  the output reaches 51%, which is 3.57 million stop mining,Start SEN mining. 
 
 ​	Stage2:  Communion (development)
