@@ -8,7 +8,9 @@ Consensus Unis is divided into four stages:
 
 ​	Stage1:  consensus (drainage)
 
-​		Code: CON. < br >
+​		Code: CON. 
+
+
 ​		Number of issued:  7 million pieces. 
 ​		Issue price:  0.08USDT. 
 ​		Income logic:  USDT buys miners to produce CON.
