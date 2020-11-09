@@ -8,7 +8,7 @@ Consensus Unis is divided into four stages:
 
 ​	Stage1:  consensus (drainage)
 
-​		Code: CON. 
+​		Code: CON. < br >
 ​		Number of issued:  7 million pieces. 
 ​		Issue price:  0.08USDT. 
 ​		Income logic:  USDT buys miners to produce CON.
@@ -30,7 +30,7 @@ Consensus Unis is divided into four stages:
 
 ​	Stage3:  Wealth together (breakthrough)
 
-​		Code name:  SUS. 
+​		Code:  SUS. 
 ​		Number of issued:  5 million pieces. 
 ​		Issue price:  0.08USDT. 
 ​		Profit logic:  50%CON+50%SEN purchase mining machine to produce SUS.
