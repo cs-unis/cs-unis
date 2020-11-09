@@ -8,48 +8,55 @@ Consensus Unis is divided into four stages:
 
 ​	Stage1:  consensus (drainage)
 
-​		Code: CON. 
+​		  Code: CON. 
 
-​		Number of issued:  7 million pieces.
+​		  Number of issued:  7 million pieces.
 
-​		Issue price:  0.08USDT. 
+​		  Issue price:  0.08USDT. 
 
-​		Income logic:  USDT buys miners to produce CON.
-​			       The number of output is 7 million x 51% x 50% = 1.785 million.
-​			       Turn on CON to buy mining machine to produce CON.
-​			       The number of output is 7 million x 51% x 50% = 1.785 million.
+​		  Income logic:  USDT buys miners to produce CON,The number of output is 7 million x 51% x 50% = 1.785 million, Turn on CON to buy mining machine to produce CON,
+			         The number of output is 7 million x 51% x 50% = 1.785 million.
 
-​		Total output:  the output reaches 51%, which is 3.57 million stop mining,Start SEN mining. 
+​		  Total output:  the output reaches 51%, which is 3.57 million stop mining,Start SEN mining. 
 
 ​	Stage2:  Communion (development)
 
-​		Code:  SEN. 
-​		Number of issued:  6 million. 
-​		Issue price:  0.08USDT. 
-​		Profit logic:  CON purchases miners to produce SEN.
-​			       Output quantity 6 million x 51% x 50% = 1.53 million.
-​			       Turn on 50%CON+50%SEN to buy miners to produce SEN.
-​			       Output quantity 6 million x 51% x 50% = 1.53 million.
-​		Total output:  the output reaches 51%, which is 3.06 million stop mining,Start SUS mining. 
+​		  Code:  SEN. 
+
+​		  Number of issued:  6 million. 
+
+​		  Issue price:  0.08USDT. 
+
+​		  Profit logic:  CON purchases miners to produce SEN,Output quantity 6 million x 51% x 50% = 1.53 million,Turn on 50%CON+50%SEN to buy miners to produce SEN,
+			         Output quantity 6 million x 51% x 50% = 1.53 million.
+
+​		  Total output:  the output reaches 51%, which is 3.06 million stop mining,Start SUS mining. 
 
 ​	Stage3:  Wealth together (breakthrough)
 
 ​		Code:  SUS. 
+
 ​		Number of issued:  5 million pieces. 
+
 ​		Issue price:  0.08USDT. 
-​		Profit logic:  50%CON+50%SEN purchase mining machine to produce SUS.
-​			       Output quantity 5 million x 51% x 50% = 1.275 million.
-​			       Turn on 20%CON+30%SEN+50%SUS to purchase mining machines and produce SUS.
-​			       Output quantity 5 million x 51% x 50% = 1.275 million.
+
+​		Profit logic:  50%CON+50%SEN purchase mining machine to produce SUS,
+			       Output quantity 5 million x 51% x 50% = 1.275 million,
+			       Turn on 20%CON+30%SEN+50%SUS to purchase mining machines and produce SUS,
+			       Output quantity 5 million x 51% x 50% = 1.275 million.
+
 ​		Total output:  the output reaches 51%, which is 2.55 million stop mining,Open UNIS mining. 
 
 ​	Stage4: Sharing (prosperity)
 
 ​		Code:  UNIS. 
+
 ​		Number of issued:  4 million pieces. 
+
 ​		Issue price:  0.08USDT. 
-​		Profit logic:  20%CON+30%SEN+50%SUS purchase mining machine to produce UNIS.
-​			       Output quantity 4 million x 51% x 50% = 1.02 million. 
+
+​		Profit logic:  20%CON+30%SEN+50%SUS purchase mining machine to produce UNIS,Output quantity 4 million x 51% x 50% = 1.02 million. 
+
 ​		Total output:  the output reaches 25.5%, which is 1.02 million stop mining,Open the exchange ecosystem, UNIS will serve as The only ecological asset of the 	                                Consensus Unis platform. 
 
 ### Single node deployment
